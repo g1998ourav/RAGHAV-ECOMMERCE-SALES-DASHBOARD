@@ -1,6 +1,10 @@
 # RAGHAV-ECOMMERCE-SALES-DASHBOARD
 "THE DASHBOARD WAS DEVELOPED USING POWER BI DESKTOP 2024"
 
+PROJECT OBJECTIVE:-
+
+The owner of Raghav Sotre wants to get our help in setting up a dashboard so they can track and evaluate their online sales in India.
+
 PROJECT LEARNINGS:- 
 
 1. An interactive dashboard was developed to track and analyze online sales statistics.
