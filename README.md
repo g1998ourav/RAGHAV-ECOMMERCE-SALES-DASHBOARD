@@ -3,7 +3,7 @@
 
 PROJECT OBJECTIVE:-
 
-The owner of Raghav Sotre wants to get our help in setting up a dashboard so they can track and evaluate their online sales in India.
+The owner of Raghav Store wants to get our help in setting up a dashboard so they can track and evaluate their online sales in India.
 
 PROJECT LEARNINGS:- 
 
